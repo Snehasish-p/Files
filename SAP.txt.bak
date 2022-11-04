@@ -1,0 +1,55 @@
+SD Module
+Business Partner- 51077
+Customer- 25042
+Business Partner- 51078
+Inquiry- 10000027
+Purchase Order No.- 100
+Quotation- 20000023
+Standard Order- 49
+Outbond Delivery- 80000039
+Document (Billing)- 90000033
+Document (Payment)- 1400000027 
+
+
+
+
+
+MM Module
+vendor- 125005
+Business Partner - 51070
+
+https://tech6sense.blogspot.com/2020/12/how-to-create-new-supplier-in-sap-mm.html
+
+
+Customer- 11000
+Standard order - 46
+Purchase Order No- IMTG-001
+Outbond Delivery- 80000036
+Doucument (Billing)- 90000029
+Document (Payment)- 1400000023
+
+
+
+
+MM Module
+Vendor- 125009
+Business Partner - 51098
+Material- CKLK1100
+Purchase Requisition Number- 0010000014
+RFQ- 6000000015
+RFQ- 6000000016
+RFQ- 6000000017
+Standard PO created under the number- 4500000006
+Material Document- 5000000017
+Document no.- 5105600118
+Material Document- 5000000018
+Document no.- 5105600119
+Document- 1500000006 posted in company code US00
+
+
+
+
+
+FI Module
+Business Partner- 51223
+Document- 100000005 posted in company code US00

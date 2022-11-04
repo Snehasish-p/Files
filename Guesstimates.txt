@@ -1,0 +1,193 @@
+1)
+How many cups of tea were consumed in Mumbai last month?
+
+First, clarify the question. Then, start solving.
+As a first step, inform the interviewers that each day of the week is being considered equally. Tea consumption might likely decrease during the weekend as people do not go to the office—so you might consider that as well. We shall go with the first assumption.
+The population of Mumbai is 1.8 crore; we shall round it up to 2 crores. 20% of this population is assumed to be children who do not drink tea. Another assumption is that of the remaining population, 20% are habitual drinkers, 30% are regular drinkers, 20% are occasional drinkers, and 10% are non-drinkers.
+The habitual drinkers may be said to have three cups of tea in a day. Regular drinkers may be said to have one cup of tea in a day. The tea consumption of occasion drinkers maybe once a week, and that of non-drinkers none at all.
+Calculating proportions-
+
+Habitual – 3 x 0.2 x 7 = 4.2
+
+Regular – 1 x 0.3 x 7 = 2.1
+
+Occasional – 1 x 0.2 x 1 = 0.2
+
+Non – 0
+
+Total = 6.5
+
+Total cups per week = 6.5 x 1.6 crore = 10.4 crore
+
+
+
+
+2)
+How many iPhones are currently being used in India?
+
+Clarify with the interviewers whether the question is about only a single version of the iPhone or all versions put together. Here, we shall assume that all iPhones put together are being talked about.
+The first step toward solving this query will be segmentation. There are many ways in which India’s population can be segmented. Here, we shall first assume that only people who have attained a working age and are under the age of retirement own an iPhone. Children and old citizens do not own an iPhone. This removes 20% of the population as children and 20% as senior citizens.
+The next assumption will be that only the upper stratum of India’s income range can afford an iPhone. This metric assumes that only 5% of the eligible citizens from the previous filter can own an iPhone.
+Now, it is not necessary that every member of this upper stratum will own an iPhone. Other options, such as OnePlus, Samsung, etc., are also available. However, a fair assumption would be that 50% of the eligible population from the previous filter owns an iPhone.
+Calculating the proportion of the population that owns an iPhone – 
+
+0.6 x 0.05 x 0.5 = 0.015
+
+Total iPhones in India = 0.015 x 130 crore = 1.95 crore
+
+
+
+
+3)
+How many cars are there in Delhi?
+
+Clarify whether the interviewer assumes just personal vehicles or all cars, as Delhi is also a government seat. The assumption in this solution will be that only personal vehicles are being talked about.
+
+Firstly, the population of Delhi is 2 crores, rounding up. The average size of a family in Delhi may be said to be four people, it being an urban region mostly composed of nuclear families. Further segmentation may be as per income class or level. As is customary, 30% of people may be said to belong to the lower class, 50% to the middle class, and 20% to the upper class.
+The calculation metric will be the number of cars per family. Among middle-class families, 50% may be said to own a car, and the other 50% own no car. Among the upper-class families, it may be said that all families own an average of two cars.
+Calculating proportions-
+
+Middle class families – 0.5 x 0.5 x 1 = 0.25
+
+Upper class families – 0.2 x 2 = 0.4
+
+Total = 0.65
+
+Total cars in Delhi = 2 crore * 0.65/4 = 32.5 lakhs.
+
+
+
+
+4)
+What is the size of the laptop market in the USA?
+
+Make important clarifications such as the unit of measurement. Here, we shall assume that the unit of measurement is the number of laptops sold in a year.
+The first step will be to make clear the USA’s population, which may be taken to be 300 million. Next, assume the proportion of this population that owns a laptop. The last determination will be the average span of the life of a laptop in the USA.
+The USA population may be segmented into retirees, students, stay-at-home population, and working population. The working population may be said to be 50% of the total population. The retirees maybe 30% and students maybe 20% of the whole population.
+Among the working population, it is assumed everyone owns a laptop. Among the retirees, a fair assumption would be that nobody owns a laptop. Among students, while younger classes do not require laptops, older classes do. So, half the students may be assumed to own a laptop.
+Calculating the proportions of the population that own a laptop –
+
+Working population – 0.5 x 1 = 0.5
+
+Students – 0.2 x 0.5 x 1 = 0.1
+
+Total – 0.6.
+
+The average age of a laptop may be said to be 5 years. So, ⅕ of the total calculated population will change their laptops every year.
+
+The market size of laptops in the USA is 350 million x 0.6 x 0.2 = 42 million.
+
+
+
+
+5)
+How Many Refrigerators Are Sold In India Every Year?
+
+For this question the obvious clarification is whether only domestic refrigerators are to be taken into account or whether you should include commercial ones as well. Once you have obtained this clarification, you can proceed with your answer as follows:
+
+Take the overall population of India and roughly calculate the number of households in the country (by dividing overall population by the average size of a household, which is generally taken to be four members). Then, based on your knowledge of household distribution, divide the households into metro or urban (tier 1), peri-urban or suburban (tier 2) and village or rural (tier 3) brackets. Each of these brackets needs to be further broken down based on economic resources into rich, middle class and poor households. After this, you have to estimate the market penetration for each of these economic sections for each bracket.
+
+This is to be followed by calculating the absolute number of refrigerators that are in demand annually—or the market size—by multiplying the sum of penetration with the number of households in each section of each bracket. But this is not all. You also need to factor in that refrigerators are bought either as first-time purchases or as replacements for old refrigerators. So, in order to arrive at the final guesstimate, you need to make two assumptions—the average life of a refrigerator (say 10 years) and the assumed growth rate of refrigerators (say 5 percent). Then the formula by which you’ll arrive at your answer should be:
+
+Refrigerators sold in India in a year = refrigerators sold due to replacement + refrigerators sold due to new growth
+
+Therefore, refrigerators sold in India in a year = (absolute refrigerators in annual demand or market size / average life of a refrigerator) + (growth rate of refrigerators x absolute refrigerators in annual demand or market size)
+
+OR
+
+Interviewee: I would like to approach this question from the demand side.
+Total population of India = 130 crore
+Let us take a number of members in a family = 4
+Total Households = 130/4 = 32.5 crore
+For Metro/Tier I class households
+Percentage of poor: middle class: rich = 20%:60%:20%
+For Tier II/III class households
+Percentage of poor: middle class: rich = 40%:50%:10%
+For Village Households
+Percentage of poor: middle class: rich = 60%:38%:2%
+
+Market Penetration
+
+	Metro/ Tier I 	Tier II/ III 	Villages
+Poor % 	0 	0 	0
+Middle-class % 	50% 	40% 	0
+Rich % 	100% 	100% 	100%
+
+Absolute Refrigerators Numbers = Sum of Penetration * No of households in each segment
+
+	Metro/ Tier I 	Tier II/ III 	Villages
+HouseHolds 	0.2*32.5 = 6.5 Cr 	0.15*32.5 = 4.875(Let’s take it 5) 	0.65*32.5 = 21.125 (Let's take it 21)
+Refrigerators Penetration 	0.5*0.6+0.2 = 50% 	0.4*0.5+0.2 = 30% 	2%
+Total 	0.5*6.5 = 3.25 	0.3*5 = 1.5 	0.02*21 = 0.42
+
+Total number of refrigerators  = 3.25+1.5+0.42 = 5.17 crore
+
+As the question asks the number of refrigerators  sold every year, we have to take care of following points too:
+
+    i) People buying refrigerators due to replacement (as their old machine is not working)
+    ii) People buying refrigerators as their first refrigerator
+
+Let's take the average life of Refrigerators= 10 years
+
+Assumed growth rate = 5%
+
+Refrigerators  sold in a year = refrigerators  due to replacement + New Demand due to growth
+
+= (Total refrigerators ( i.e. market size) / Avg Life) + (Growth rate * Total machines (i.e. market size))
+
+= (5.17/10)+(5.17*0.05) crore
+
+= 0.775 crores
+
+= 77.5 lakhs
+
+
+
+
+6)
+How Many Square Inches Of Pizza Are Eaten In The United Kingdom Each Month?
+
+For this particular guesstimate question, it may be useful to put actual numbers to the assumptions so as to quantify the guesstimate. The first assumption in order to tackle this question is to estimate the number of pizza eaters in the United Kingdom every year. For such situations, it’s safe and reasonable to assume 50% of the population as the starting figure, which, in this case, provides a figure of 33 million people. Now, it’s time to make another assumption—how many times does an average pizza eater in the UK have pizza per month and how many slices do they consume? You can take the answer to be twice a month and two slices at a time. This makes it four slices a month per person.
+
+If the average slice of pizza is roughly six inches at the base and around 10 inches long, then each slice is equal to 30 square inches of pizza (height multiplied by half the base). So four pizza slices would come to 120 square inches of pizza. If you multiply 120 square inches of pizza with the total number of pizza eaters—33 million—you get your final guesstimate, which is 3,960 million or 3.96 billion square inches of pizza. You can round off your guesstimate to arrive at the final answer of 4 billion square inches of pizza.
+
+
+
+
+7)
+How many tennis balls can fit in a boeing 737?
+Assume that in a Boeing 737 there are 6 seats in one row and a walking area in between. Each seat is designed for one person with some space for the handles. Assume that the width of 1 seat is 0.5m.Thus for 6 seats 6*0.5=3.0m. Assume the walkway passage to be 1.5m wide. 
+
+Thus total width of the plane = 3.0+1.5+0.5(buffer) = 5.0m
+
+And Assuming there are 70rows in a plane each at a meter space. 5m ahead of all the rows and 5m behind all the rows
+
+Thus height of the plane = 80m
+
+Calculating for the tennis ball
+
+Tennis ball is a sphere with radius of approx 3 cms = 0.03 m
+
+Volume of a tennis ball = 4/3(pi r^3) = 1.33*0.000027*pi
+
+think of a boeing 747 as a cylinder with length (height) = approx 80 m and radius = 5 m
+
+volume of a boeing 747 = pi*(r^2)*h = 25*80*pi
+
+# of tennis balls that fit into a boeing 747 ~ (25*80)/(1.33*0.000027) ~ 6,000,000 tennis balls
+
+The entirety of the volume of the cabin can’t be perfectly taken up by spherical tennis balls, the random packing efficiency of tennis balls is around 64%, so multiply 6,000,000 by .64 to get 3,840,000
+
+
+
+
+8)
+How many people are in the air boarded on a plane at this very moment in india?
+https://prepinsta.com/zs-associates/how-many-people-are-in-the-air-boarded-on-a-plane-at-this-very-moment-in-india/
+
+
+
+
+9)
+Predict the number of red lights in Delhi?
+https://prepinsta.com/zs-associates/predict-the-number-of-red-lights-in-delhi/

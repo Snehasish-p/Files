@@ -1,0 +1,379 @@
+Covariance vs Correlation
+Covariance indicates the direction of the linear relationship between variables. It can vary from - infinity to + infinity.
+Correlation measures both strength and direction of the linear relationship between variables. It can vary from -1 to +1.
+Covariance is Unstanderdized whereas Correlation are standardized
+
+Shapiro Wilk Test
+The Shapiro-Wilk test is a way to tell if a random sample comes from a normal distribution.
+If Sig is less than 0.05 data deviates from normal distribution. If greater than 0.05 data is normal.
+Null Hypothesis is that Data is normally distributed.
+
+Levene's Test
+Levene's test ( Levene 1960) is used to test if k samples have equal variances. Equal variances across samples is called homogeneity of variance.
+The null hypothesis for Levene’s is that the variances are equal across all samples. In more formal terms, that’s written as:
+H0: σ12 = σ22 = … = σk2.
+The alternate hypothesis (the one you’re testing), is that the variances are not equal for at least one pair:
+H0: σ12 ≠ σ22 ≠… ≠ σk2.
+If Sig is less than 0.05 Unequal variances. If greater than 0.05 variances are equal.
+
+
+If variances are equal we will do normal ANOVA. And if the variances are not equal we have to do BFT(Brown- Forsythe Test).
+If BFT is significant then, you can finally conclude that the mean of at least 1 group is statistically different from other means.
+
+
+
+
+Chi-square
+Chi-square test is done to see whether 2 or more categorical variables are significantly associated/related with each other. Each categorical variable may have 2 or more levels. For example: If region is a categorical variable, then its levels may be North India and South India.
+Null Hypothesis is that there is no associated/related between variables.
+If Pearson Chi-square Sig is less than 0.05 strong association. If greater than 0.05 no association.
+
+Example- Suppose Region and Newspaper are two categorical variable. Is there any associated/related between them?
+Analyze---Descriptive Statistics---Crosstabs--- 
+
+
+
+
+T- Test
+It is done to see whether the means of a variable across 2 groups are statistically different from each other.  
+When T-test is done?
+When population SD is not known.
+When sample size is lesser than 30. However, this is not a very strict assumption.
+When you take 2 samples, and you want to know whether the sample means would be statistically different from each other.
+However, t-test can also be done in case of single sample.
+
+Types of T-tests
+Normally, 3 types of t-tests are done. 
+1. Single sample t-test
+2. Independent samples t-test
+3. Paired t-test
+
+1. One/Single sample t-test: When it is done?
+One sample t-test is done to check whether the mean of your sample is statistically different from zero. If your sample mean is statistically different from zero, then you can say that your sample mean is worthy to investigate further, or worthy to compare with any other sample mean.
+Analyze---Compare Means-----One Sample T- Test
+Tick Exclude case Listwise from options. If there is any 0 value in sample it will delete that.
+Null Hypothesis is that sample mean is equal to zero.
+If Sig is less than 0.05 there is significant difference between sample mean and Zero.
+
+2. Independent samples t-test for sample means
+Say, you have taken 2 samples. Now, you want to check whether the sample means are statistically different from each other. It is also known as between group t-test.
+The null hypothesis (H0) assumes that the true mean difference (μd) is equal to zero. What is (μd) here?
+• The two-tailed alternative hypothesis (H1) assumes that μd is not equal to zero.
+• The upper-tailed alternative hypothesis (H1) assumes that μd is greater than zero.
+• The lower-tailed alternative hypothesis (H1) assumes that μd is less than zero.
+The mathematical representations of the null and alternative hypotheses are defined below:
+H0: μd = 0
+H1: μd ≠ 0:    (two-tailed)
+H1: μd > 0:    (upper-tailed)
+H1: μd < 0:    (lower-tailed)
+Assumptions:
+The variable values in each sample should be normally distributed and taken from 2 different populations having equal variances.
+The variances of 2 samples should be statistically same (not different). 
+[We do Levene’s test to check whether the variances are same. Levene’s test follows F distribution. If Levene’s F is not significant, it shows that group variances are equal. If Levene’s F is significant, it shows that group variances are unequal. When group variances are unequal, t-test formula is adjusted with a correction, and you will get a t-value different from equal variance t-value].
+First you check the significance of Levene’s F. Accordingly you check the significance of corresponding t-statistic.
+
+Analyze---Compare Means-----Independent Sample T- Test
+Null Hypothesis is that both sample mean is equal.
+If Sig is less than 0.05 there is significant difference between both the sample means.
+
+3. Paired t-test: When paired sample t-test is done?
+When you want to check the statistical significance of the differences between the means of two categories of responses collected from the same sample at different times (say before and after any intervention/stimuli exposure). As the responses at different times are taken from the same sample, this technique is also known as within group t-test.
+As it is done taking the same sample, the equal variance assumption is relaxed here. So Levene’s F test is not in built in SPSS while doing paired t-test.
+Analyze---Compare Means-----Paired Sample T- Test
+Null Hypothesis is that both sample mean is equal.
+If Sig is less than 0.05 there is significant difference between both the sample means.
+
+
+
+
+ANOVA
+Between-group ANOVA test
+This is done when you want to test whether the means of more than 2 groups (at least 3) are such that the mean of at least 1 group is different from the means of other groups.
+ANOVA follows F statistic, and assumes that variances of the groups will not have statistical differences.
+That is why while doing ANOVA you have to test the ‘homogeneity of group variances’ through Levene’s Test. If Levene’s test is significant, then it implies that the variance of at least 1 group is statistically different.
+If Leven’s Test is not significant, then you can simply interpret normal ANOVA-F. There is no need to interpret any other thing. If ANOVA-F is significant, it indicates that the mean of at least 1 group is different from other means.
+If Levene’s test is significant (showing that variance of at least 1 group is statistically different), then it is not correct to check the significance of normal ANOVA-F.
+In such a case, you have to check whether Brown-Forsythe test (BFT) is significant. If BFT is significant then, you can finally conclude that the mean of at least 1 group is statistically different from other means.
+Analyze---Compare Means-----One-Way Anova
+Null Hypothesis is that all sample means are equal.
+If Sig is less than 0.05 there is significant difference between the sample means. 
+Then we have to check Post- hoc options which will tells us means of which samples are same or different.
+If Sig is less than 0.05 there is significant difference between the sample means. 
+
+Example- 3 different age groups people rating the brand liking of ITC.
+
+
+Repeated measure ANOVA
+Respondents are randomly selected.
+Response levels in each between-group is normally distributed.
+Sphericity assumption: The variances of the differences of all possible pairs of within-subject levels of responses are statistically equal (H0: Differences are 0). Muchley’s test of sphericity is done to check this assumption. The sphericity assumption is valid when Muchley’s test is not significant.
+The covariance matrices of the within-subject response levels should be statistically equal across the between-groups. We do Box M test to check this. If Box M is insignificant, then this assumption holds good. The significance cut off for Box M is 0.001.
+
+Output interpretations: You have to check the sphericity F value and its significance in the tests of within-subjects effect output. If Sphericity-F is not significant (p > 0.05), then your sphericity assumption is valid, and you interpret sphericity assumed within-subject main effect. 
+If sphericity F is significant (p < 0.05), then sphericity assumption is violated, and you have to interpret the Greenhouse-Geaser effect in the output.
+
+Analyze---General Linear Model---Repeated Measure ANOVA
+In statistics when multiply two variables it is called interaction effect.
+Test of Within Subjects effects
+If Sig is less than 0.05 there is significant impact between variables. 
+Pairwise Comparison
+If Sig is less than 0.05 there is significant difference between the stimulis( Adcopy) or different time.
+
+
+MANOVA
+Why MANOVA is done?
+You have to do MANOVA when you have more than 1 dependent metric variable and you are interested to check whether the means of any dependent variable across all independent groups are statistically equal. Here, independent groups explain variance in the dependent variable.
+Main assumption of MANOVA: The covariance matrices of the dependent variables are equal across groups (Dependent variables should be similarly correlated across groups). Box’s M test is done to check for this null hypotheses. While interpreting BoxM you have to consider 0.001 error level, not 0.05.
+If Box’s M is not significant, it means that the covariance matrices of dependent variables are statistically equal across groups, and MANOVA can be done. If BoxM is significant, then you have to interpret MANOVA very carefully.
+The widely accepted output of MANOVA is Pillai’s Trace F value. If Pillai’s Trace is significant, it means that the means of at least 1 dependent variable are statistically different across the independent groups. Pillai’s trace should be interpreted when BoxM is not significant at 0.001 level.
+When BoxM is significant at 0.001 level (ideal case), then you should interpret Roy’s Largest Root F value instead of Pillai’s Trace F. The interpretations of both will be the same.
+There is a separate Levene’s test option which also checks the null hypotheses whether the variances of each dependent variable across groups are statistically equal. When all Levene’s tests are not significant, Box M is also expected to be not significant at 0.001 level. However, Box M is highly sensitive towards normality and may give different results some times.
+If MANOVA Pillai/Roy is significant then only you should interpret subsequent ANOVA results for each dependent variable and the final LSD pair-wise group mean difference tests for each dependent variable across groups.
+‘Partial eta square’ shows the variance explained in dependent variable(s) by categorical independent variable. 
+
+Analyze---General Linear Model---Multivariate
+Covariate- an independent variable that can influence the outcome of a given statistical trial, but which is not of direct interest. 
+In order to get true impact of independent variables on dependent variable we should use other variables as covariates which may not directly affect dependent variable but can have some impact. Ex- like Age, Income may not be directly related with Brand Purchase Itention but it may have some effect.
+
+Test of between subjects effects
+If Sig is less than 0.05 than there is a significant impact of independent variable on dependent variable.
+
+
+ANCOVA (Analysis of Co-variates)
+In simple ANOVA, we try to check whether the means of any dependent variable (V1) can vary across independent groups. Now, there may be another variable (V2) such that the means of the dependent variable scores across groups are impacted by V2 also. Then, in order to know the true extent to which the means of the dependent variable get impacted by the independent groups only, we need to control the effect of V2 on V1. The V2 is called ‘covariate’. ANCOVA gives the same result as ANOVA after controlling for the effect of covariate factor on the focal dependent variable across groups.
+
+Analyze---General Linear Model---Univariate
+
+
+
+
+Regression
+Y = 2.23 + 0.64 X1 - 0.70 X2 + U
+Interpretations:
+Y is our dependent variable (DV) which is predicted by several independent variables (Ivs).
+In the absence of all independent variables (IV), Y will take the value of 2.23. This is called regression intercept.
+‘U’ captures the portion of total variance in ‘Y’ that is unexplained by all independent variables in the model. ‘U’ denotes error/residual term.
+[+ 0.64 X1] can be interpreted as “for 1 unit increase in X1 independent variable, value of Y will increase by 0.64 units when all other independent variables are held constant”.
+If F-value of any regression model is not significant, then the model is not usable at all. It is the first thing you should check in a regression output.
+Adjusted R-square value of any regression denotes the % of total variance in the dependent variable explained by all independent variables included in the model.
+Independent variables are also known as predictors/explanatory variables.
+If R-square of any regression is low – it means that the regression model doesn’t include suitable predictors to explain the variance in the dependent variable, or some important explanatory variables might have been excluded in the model. 
+Manager must be sure that all the relevant explanatory variables have been taken care of that can impact dependent variable.
+Regression is always based on historical data. It may not help manager to make accurate decision, if the present market conditions have changed a lot compared to the past. 
+Practically all dependent-independent relationships may not be linear.
+Assumptions-
+The error terms must be normally distributed.
+Error terms should not be correlated with each other. If they are correlated, it is called auto-correlation problem.
+The dependent variable must be linearly dependent on the independent variables.  
+The explanatory variables ideally should not be correlated with each other, but each explanatory variable must be correlated with the dependent variable. If independent variables are correlated with each other, it is called multi-collinearity problem.
+
+Regression related special tests
+Normality test
+Check whether error term is normally distributed. You can check it by clicking histogram plot of errors in the plot option in SPSS. 
+Auto-correlation problem & Durbin-Watson test
+Durbin–Watson statistic is a test used to detect the presence of auto/serial correlation among error terms.
+The DW test outcome is represented by [d].
+The value of d always lies between 0 and 4. 
+If the Durbin–Watson statistic is substantially less than 2, there is evidence of positive serial correlation.
+if Durbin–Watson is less than 1.0, it indicates that successive error terms are very significantly and positively correlated.
+If d is far greater than 2, it indicates that successive error terms are, on an average negatively correlated. If it is more than 3, negative correlation would be higher.
+SPSS does not provide any specific (p) value for DW test.
+Generally, a DW value between 1.5 to 2.5 indicates very less correlation between error terms which is desirable.
+
+Multi-collinearity (MC) problem in regression
+This problem may occur when the predictor variables in a regression are highly correlated. The independent variables should not be highly correlated. If they are, then it inflates the overall % of variance explained (R-square) in the dependent variable.
+If multi-collinearity problem is severe then remove those independent variables from your model which are highly (> 0.9) correlated with majority of other independent variables.
+In marketing research, a modest level of multi-collinearity exists in regression most of the time as many a times independent marketing variables are correlated. Only thing is that multi-collinearity level should not be very high. 
+
+How to detect multi-collinearity problem in a regression?
+You need to check ‘collinearity diagnostics’ option under ‘statistics’ while running a regression in SPSS.
+You will get ‘Tolerance’ & ‘VIF (Variance Inflating Factor)’ values in output corresponding to each independent variable. VIF = 1/Tolerance.
+There is no strict cut-off values for these 2 indices indicating multi-collinearity. 
+However, rule of thumb: Tolerance value should be greater than 0.1; and VIF value should be lesser than 10.
+
+How to resolve multi-collinearirty problem in SPSS?
+By identifying and removing such explanatory variable(s) by checking the correlation table which has an average correlation more than 0.90 or 0.80 with most of the other explanatory variables. 
+If you are running a regression using factor scores, you can exclude a factor which is having a correlation more than 0.50 with other factors in the inter-factor correlation table that you get in Principal Axis Factoring outputs.
+
+Hetero-scedasticity problem in regression
+This problem occurs when the variances of the error term change systematically with the values of the dependent variable (ŷ) in a regression. Specifically, heteroscedasticity is a systematic change in the spread of the residuals over the range of the values of predicted dependent variable which should not have occurred if the errors are really independent and random.
+Idea is that a good regression should commit random errors while predicting different dependent variable values.
+
+How to detect hetero-scedasticity?
+Check the plotting of standardized errors (along Y-axis) over standardized predicted dependent variables (along X-axis). If homoscedasticity is there, then the plotted points should be largely parallel to the x-axis, and will not show any cone shaped scatter. The cone can be either from left to right or right to left if heteroscedasticity is present.
+
+Regression output interpretation
+Check ANOVA F first. It should be significant.
+If F is significant, then check: adjusted R-square, DW, Tolerance/VIF, Scatterplot & histogram of the residuals, significance levels of the t-tests for all the beta values for the independent variables. 
+
+
+
+
+Moderation Effect
+Say, Y is dependent & X is independent variable. That means that X impacts Y.
+There can be a 3rd variable called Z acting as moderator. It means that the presence of Z will positively or negatively modify the effect of X on Y. 
+The moderating effect can be checked by creating a new independent variable in your regression equation by multiplying X with Z. The equation will look like:
+Y = a + b1(X) + b2(X*Z) + b3(Z).
+Example-
+Attitude towards ad (AtA) can impact BPI where consumer’s existing attitude towards brand (AtB) can moderate the effect of AtA on BPI. 
+The moderation effect of AtB is said to be positive when the sign of the beta value for the multiplicative interaction variable (AtA*AtB) is positive. The moderation effect of AtB is said to be negative when the sign of the beta value for the multiplicative interaction variable (AtA*AtB) is negative.  
+What will be the interpretation of positive and negative moderation?
+Positive moderation: For high level of the moderator, the effect (beta) of IV on DV will be high. For low level of moderator, the effect of IV on DV will be low.
+Negative moderation: For high level of the moderator, the effect of IV on DV will be low. For low level of moderator, the effect of IV on DV will be high. 
+
+
+
+
+Mediation
+Say, Y is dependent & X is independent variable. That means that X impacts Y.
+There can be a 3rd variable called M acting as mediator. It means that X can impact Y through M.
+If X impacts Y only through M, it is called full mediation of X-Y relation by M.
+If X impacts Y through M, and at the same time without the presence of M (i.e. directly on Y) also- then it is called partial mediation of X-Y relation by M.
+
+
+
+
+
+Step-wise regression
+Objective of step-wise regression is to select few independent variables out of many that can explain significant variance  in your DV, and finally remove those IVs that cannot explain good amount of variance in Y. So, you finally get a reduced set of IVs which are the best in terms of variance explaining power.
+The software includes independent variables in the model in a step by step process such that 
+i) in the first step, it includes only that independent variable which explains the highest variance in the dependent variable.
+ii) in the next step, it includes another independent variable which has the second highest ability to explain variance in the dependent variable compared to the remaining independent variables.
+So on…it continues till the left out independent variables would have very poor ability to explain variance in the dependent variable. These independent variables would be finally excluded, as they can cause very low (not significant) R-square change in Y. R-square change = [(R-sq of current step) – (R-sq of the previous step)].
+In every step it calculates R-square change. It also does a F-test in every step to see whether the R-square change is significant. That F-value is called F-change value. You have to check the p-value for F-change in every step which should be significant.
+Finally SPSS will exclude those IVs which don’t explain good variance in DV.
+
+It is like screening process
+
+
+
+Factor Analysis
+It is a interdependence technique.
+It is used to reduce a large no of study variables into fewer ones such that a set of reduced number of latent factors/latent constructs explain variance in your items. 
+By doing factor analysis you verify whether all your items are loading on appropriate latent factors that you are trying to measure in your questionnaire.
+
+When Factor Analysis to be Done?
+After calculating Cronbach’s Alpha values for all your study constructs, in the next step you should do a factor analysis of all items of all your study constructs. Cronbach’s Alpha measures the strength of correlations between items measuring any latent construct which may range from 0 to 1. Ideally it should be more than 0.80. 
+If the value of Cronbach’s alpha is greater than 0.8(Ideal) but 0.7 is also acceptable then only we will do factor analysis. Otherwise we have to improve our Items(Statements for a particular Construct) We can do this by checking correlation if the correlation between items are great than we should keep those statements and remove those whose correlation is also not good. So by this we can increase the Cronbach’s alpha value of a construct.
+In the factor analysis output matrix all items measuring one particular concept should load on one factor based on their correlations, and this way items measuring different concepts should load on different factors without any overlapping/cross-loading. 
+
+The logic is that i) all items measuring concept X should be highly correlated with each other; and ii) items measuring concept X should be comparatively poorly correlated with the items measuring concept Y. Why? Because if X and Y are correlated with each other than statements of this construct will overlapped and it will not load properly.
+Hence, all items measuring concept X should be under one factor, and all items measuring concept Y should be under different factor in the factor analysis output and so on.
+
+Important Outputs in Factor Analysis
+KMO Value
+KMO is a statistical test that checks the proportion of variance among your variables that might be common variance (shared variance among the variables). Your data is suitable for factor analysis when this common variance portion is high. Higher the common variance is, higher would be the probability of getting factors or groups of variables sharing variances with each other. 
+KMO value can range between 0 (0% common variance) to 1 (100% common variance). KMO value should ideally be more than 0.80 (80% common variance). Up to 0.70 is tolerable.  
+KMO may be lower when your sample size is low or inadequate to generate sufficient common variance. Minimum sample size needed= 5 * number of variables in questionnaire.
+
+Bartlett’s Test
+This test checks the null hypothesis that that your variables are uncorrelated and therefore unsuitable for structure detection. Small values (less than 0.05) of the significance level indicate that a factor analysis may be useful with your data.
+If KMO (> 0.70) & Bartlett’s test (< 0.05) both are ok, then only you can proceed with factor analysis. They are the screening tests.
+
+Why the Factors are Rotated?
+Imagine you have some variables that go into a factor analysis.
+Initially SPSS will construct certain number of factors in the n-dimensional space explaining certain total variances in the variables. 
+Then it will compute the initial correlations between variables and factors, and will see how much variance (%) of all variables each factor is explaining. This is called initial factor structure. 
+If some variables are highly correlated to a factor, they will be closer to the factor in the space.
+Then SPSS runs several iterations by changing the locations of the factors in the space. For location change of each factor, the variance explained by each factor changes. Thus, SPSS tries to find an optimum factor structure such that we get certain clearer groups of variables associated with the factors. 
+While rotating the factors may be correlated or uncorrelated. 
+
+Types of Factor Analysis
+Principal component factor analysis with varimax rotation method: When your factors (the axes representing the groups of highly correlated variables) are uncorrelated with each other. Here, the angle between any 2 factors in n-dimensional space will be 90 degree. 
+Principal axis factor analysis with direct oblimin/promax rotation method: When your factors (the axes representing the groups of highly correlated variables) are correlated with each other in the space. Two factors can have an angle other than 90 degree.
+
+Principal Axis Factoring (PAF)output
+PAF with oblimin/promax rotation should be done when your factors are supposed to be correlated with each other.
+Pattern matrix shows regression beta values such that each item is dependent & factors are independent variables in regression done after final rotation.
+Structure matrix shows the correlations between items & factors after final rotation.
+Eigen value for each factor denotes the degree to which the factor explains variance of all items included. In both pattern & structure matrix we will get factors in the descending order of eigen values. Conventionally we are interested in those factors only which are having eigen value 1 or more. SPSS can suppress eigen values lesser than 1. 
+Scree plot shows the factors plotted across the eigen values.
+
+PCA with varimax rotation should be done when your study concepts are uncorrelated with each other. In PCA the factors are not correlated with each other. 
+In PCA output you will not get pattern matrix and factor correlation matrix. Why?
+KMO should be more than 0.80. Bartlett should be significant.
+In PCA output the main matrix called Rotated Component Matrix which simply shows correlations between items & factors, but not regression beta. 
+
+Suppress item loadings below 0.40 or 0.50 in SPSS
+Normally while interpreting which items are highly loaded on/represented by a factor, we consider only the items having loading values greater than 0.40 or 0.50 on any factor in both pattern & structure matrix. If any item is having more than 0.40 loading on more than 1 factor – it is called cross-loading. In case of cross-loading, ideally you should exclude the item having cross-loading from further analysis. This way based on your factor analysis results, you may reduce the questions in your questionnaire.
+In SPSS you can suppress all loadings below any cut off like 0.40
+
+What is factor score?
+Based on pattern matrix beta values, for each respondent we can get composite score for each factor called factor score. The composite score is generated by a complicated regression method [independent variables in the regression equation are the standardized observed values of the items in the estimated factors or components. These predictor variables are weighted by regression coefficients, which are obtained by multiplying the inverse of the observed variable correlation matrix by the matrix of factor loadings and, in the case of oblique factors, the factor correlation matrix]. Resultant factor score is the dependent outcome. 
+
+How to check Cronbach’s alpha
+Analyze---Scale---Reliability Analysis
+
+Analyze---Dimension Reduction---Factor Analysis
+
+In Factor Analysis, How Rotated Component works?
+If we have 12 items in our research then it will create a 12 axis in an n- dimensional space such that every data point is plotted in an 12 axis dimension. This will be the initial solution where after plotting the values, the values which are closed together are clubbed and we will get some factors. 
+Now these facors started rotating, while the items don't change their position. When the factors are rotating their coordinates will change and there will be new clubbings of items and in this way it will run regression with factors and items in every iteration such that every dimension will explain some variance in every items in every iteration. Then it will stop rotating when variance explained is maximum that is when items are clubbed together and it forms facors these factors are explaining are explaining variances in the items.
+
+https://stats.idre.ucla.edu/spss/seminars/efa-spss/
+
+
+
+
+
+Cluster Analysis
+Hierarchial Cluster
+It does not take any dependent variable.
+https://www.displayr.com/what-is-hierarchical-clustering/
+
+
+
+
+Logistic Regression
+When your dependent variable has 2 categories, you have to run a binary logistic regression.
+When your dependent variable has more than 2 categories, you have to run a multinomial logistic regression.
+
+In multiple regression, we try to interpret how each independent variable can predict the unit change or % change (in case of log regression) in the dependent variable.
+In logistic regression, we try to interpret how each independent variable can predict the probability of the occurrence of the dependent event. 
+
+Sample size requirement for a logistic regression
+Very high requirement. It is desirable to have a sample size of around 10 times of the total number of variables/questions included in the model in order to get a good prediction.
+
+Output interpretations
+It will show a classification table in BLOCK 0 which will tell you that without the help of any independent variable, to what extent the constant only model can correctly predict the probability of the occurrence of your dependent event in terms of “percentage correct” value.
+BLOCK 1 of the output will show you the results after including all independent variables.
+In BLOCK 1, the OMNIBUS TEST model chi-square (the last row of the OMNIBUS TEST table) should be significant. It means that your model is significant & usable. This is a test of the null hypothesis that adding the independent variable to the model has not significantly increased the ability of the model to predict the probability of occurrence of the dependent event.  
+BLOCK 1 will also show a classification table like BLOCK 0 which will tell you that with the help of all independent variables, to what extent the model now can correctly predict the probability of the occurrence of your dependent event in terms of “percentage correct” value. Ideally, BLOCK 1 “percentage correct” value should be significantly greater than BLOCK 0 “percentage correct” value, if OMNIBUS TEST is significant.
+Any R-square value in logit regression output shows how well the predictors are able to explain the probability of occurrence of dependent variable which is different from the % of variance explained in normal OLS regression. If R-sq is 80% then we can say that 80% of the time the whole model is able to correctly predict the occurrence of the dependent variable.
+How to interpret (beta) in logistic regression?
+The last table of output will show you beta values & significance levels. 
+Remember the difference with multiple regression beta interpretation here:
+Y = a + bX, where a=constant, b=beta for X, and Y = Log (p/q) where ‘p’ is the probability of occurring (success) the dependent event Y; and q = (1-p) = probability of non-occurrence of Y (failure). Then ‘p/q’ is called ‘odds ratio’ for the occurrence of ‘Y’. 
+Odds tell success rate of Y is how many times the failure rate of Y in a number of trials made.
+Hence, interpretation of beta: if X increases by ‘1’ unit, log (p/q) will increase/decrease by ‘b’ units when all other predictors in the model are constant. 
+How to interpret Exp (B)?
+Exp (B) is the exponentiation of the actual beta. Exp (B) represents increase/decrease in the “odds ratio” (instead of log odd) or the success rate of the dependent event for 1 unit change in the independent variable. If Exp (B) = 1.12, you can say that for 1 unit increase in X1, odds ratio will increase by 1.12 units.
+Wald statistic follows Chi-square distribution. If Wald corresponding to any beta is significant (sig < 0.01), then only the beta value is usable, and that independent variable is significant. 
+
+
+For your Logistic Regression to be useable OMNIBUS test should be significant (less than 5%) and H&L test should also be significant.
+If H&L value is significant then it means that independent variables are significantly predicting the outcome of dependent variable.
+
+
+
+
+Dummy regression
+When in your model any independent variable (IV) is nominal/ Caterorical having 2 or more levels, you have to run dummy regression.
+If your categorical IV is having 2 levels, you simply code one level as zero (baseline level/ Reference level), and another level as 1 (non-baseline level/ comparison level) in the value column of variable view.
+Then  run normal linear regression. Say you got the unstandardized beta of the dummy corresponding to your non-baseline level as 1.1. It means that mean dependent variable score of non-baseline level would be 1.1 greater than the mean dependent variable score of baseline level of your categorical IV. The regression intercept will be the mean of non-baseline level of the categorical IV.
+
+If your any IV is having more than 2, or say 3 levels - then you have to fix any one level as zero which would become your base line level. Then you have to fix the other levels of the same categorical IV as dummies by assigning 1 to any one level and zero to all other levels at a time by recoding them. This way you have to create dummies for all your non-base line levels. Number of dummies created this way will be equal to the number of non-base line levels. 
+After recoding this way in data view you will get the dummy columns for all non-baseline levels of your categorical IV.
+In order to create dummy column, go to ‘transform’, the click ‘recode into different variables’. A dialogue box will appear. Drag your dummy IV to the middle box. Give it a name say D1 in the extreme right box. Then click ‘change’ & click ‘old and new variables’. Then in the next dialogue box, you have to give new values to your old code values such that for each dummy one particular non-base line level will get new value as 1, the fixed base line level will remain zero-zero, and all other non-base line levels will also take new value of zero. This way you have to create dummy for each non-baseline level which will appear in data view of SPSS.
+While interpreting output, the unstandardized beta of any dummy corresponding to any non-baseline level will be the difference of mean dependent variable score for the non-baseline level from the baseline level.
+
+
+
+
+Discriminant Analysis
+It is performed when your Dependent variable is categorical. It is an alternative to Logistic Regression.
+Beta in Discriminant Analysis shows the discriminat power of your independent variable.
+We do Box M test in Discriminant Analysis to check the null hypotheses that correlations of the independent variables are similar across the groups. It should not be significant.
+We check univariate Anovas to check whether the means of independent variables are different across groups or not.
+Wilk's Lambda is ratio between unexplained/error variance/ Total variance. As it denotes the unexplained variance therefore it's value should be low.
+Cannonical Correlation is similar to R- Square. Square of Cannonical Correlation is the % of the variation in the dependent variable explained by the discriminant equation.

@@ -1,0 +1,129 @@
+consumer decision frameworks, customer value propositions, customer funnels, the DIKW pyramid, customer journey maps, and big data analysis frameworks. 
+
+The legendary management expert, Peter Drucker said, if we want to know what a business is, we need to start with its purpose. And the purpose must lie outside the business itself. In fact, it must lie in society, since a business enterprise is an organ of society. There is only one valid definition of a business purpose, to create a customer.
+The customer is the foundation of a business and keeps it in existence. He alone gives employment.  
+Drucker goes on to make the point that, as a result, the two basic functions of a business are marketing and innovation.
+
+businesses need to be focused on their customers, not their products. Products should only exist to meet a customer need. Seth Godon coined the term permission marketing. This describes marketing in the age of the empowered consumer. He contrasts that with traditional marketing techniques, which he labels interruption marketing. Godin said, don't find customers for your products, find products for your customers.
+
+People do not actually buy products. They're not looking for a thing, they're trying to solve a problem. You don't buy a Coke, you buy something to quench your thirst. You don't buy a Volkswagen. You buy a way of getting from point A to point B. 
+
+Say's Law, which can be summarized as supply creates its own demand. Companies following this line of thinking, became product or production oriented. Businesses adopting a production orientation relied on economies of scale, which are the cost advantages that can be gained from mass production. In the Western world up until the 1950s, the production orientation was subscribed to by most businesses and to a large extent it worked. Because of the growing numbers of affluent and middle class people that capitalism had created. American industrialist Henry Ford was the poster boy for Say's law and for the Industrial Revolution as a whole. He developed assembly lines too quickly and relatively cheaply build his automobiles for the masses. 
+
+
+after World War II, the information revolution and more recently, the digital revolution, have changed the emphasis from a production orientation to a market orientation or a customer orientation. To explain, the first astronomers made their calculations based on the Earth being the center of the universe, with everything revolving around it. It's hard to believe today, but for centuries, people believed that the planets and even the sun revolved around the Earth. Copernicus was one of the first people who work out that in fact, Earth was just a small planet that revolved around the sun, rather than the other way around. In the same way, there was a long period where companies saw themselves at the center of the consumer universe with customers floating around them and information flowing one way from them to customers. Today, however, consumers are at the center of the universe. Aided by developments in digital technology, customers are now the ones with the power. They can search for alternatives, they can find out if you're ripping them off, they can find the best price, and they can find people who will personalize things for them. Differentiation is now more difficult and more important for businesses.
+
+Financial metrics, you need to change the way you measure success to track the success of a customer orientation. You can do this by focusing on things like customer satisfaction, customer service, loyalty, advocacy, customer lifetime value and customer equity.
+
+
+Which types of data are relevant?
+Understanding your customers is of primary importance. 
+Most companies would have some customer relationship management or CRM system in place. 
+Now there are four basic types of data held in CRM systems. There's identity data. Now this is the name, address, contacts, account details, the things that allow you to separate a particular customer from others with similar profiles. Then there's quantitative data. This includes any sales and transaction information that you have on a customer. What they bought, when, etc along with any other offline or online activity that you have access to. If you have digital integration systems in place, this would include newsletters sent, interactions and click-throughs, website and social network interactions, complaints, and feedback. Now, descriptive data is where you've collected demographic information, such as family and lifestyle details. Finally, qualitative data is where you collect psychographic information such as beliefs, attitudes, and opinions, including why they purchased your product and how satisfied they are with the product and you customer service. 
+
+Qualitative information helps tell you what's important to your customer and how they feel about you and your products. Feedback from customers, particularly regarding complaints about your business, provides you with insights into both what's important to them and how your product performs in real life, equally valuable types of information. 
+
+The net promoter score is a quantitative survey technique based on one simple question. On a scale of 1-10.
+
+
+The importance of research to knowing your customer
+Now there are two broad ways to divide research techniques, secondary versus primary research and quantitative versus qualitative research.
+
+Primary research is usually the most effective way to find out exactly what you want to find out. It's also the most expensive way to do it.
+
+
+according to a 2017 study by technology consulting firm Capgemini, 75 percent of companies consider themselves to be customer centric, but only 30 percent of their customers agree.
+Why do you think that is? 
+A contributing factor is that the traditional customer relationship management systems that they're using simply don't give them enough information to really understand their customers and what makes them tick. 
+But the solution is online presence. The amount of information you can collect online is incredible, you're able to see who looks at your information, what they're saying about you online, what parts of the screen they're looking at, what other products they're looking at, what else they do on their online customer journey and of course, who actually buys your product. 
+Google has a wide range of free tools you can use, such as Google Analytics, which analyzes the traffic to your website, and Google Trends, which helps you to determine what words and phrases people are using to search when considering your product.
+you have the data available from social media tools such as Facebook, Instagram, and LinkedIn, which offer micro-targeting data that helps you both understand potential customers to the behavior, and also offers an advertising vehicle for reaching those people. 
+The advantage of using digital data is that you can obtain information on your overall target audience, including potential customers, this is better for predicting future behavior, as well as from modifying your promotions and even your product to better serve customer needs. 
+If you've been advertising or promoting your product online, you can find out click-through rates where they go after viewing your ad, etc. All of these things help you fill up the steps of the customer journey.
+
+
+
+there is more and more data available as more people live their lives online. And then they pour it into a big pot called big data. But how do you make sense out of what comes out of the other end?
+Milan Zeleny developed the DIKW pyramid, which stands for data at the bottom of the pyramid, information, knowledge and at the top wisdom.
+
+Data, given context becomes information which given meaning becomes knowledge, which given insight becomes wisdom. Zeleny also mapped the elements of the hierarchy to knowledge forms. Know nothing, to know what, to know how, and finally, to know why. 
+
+Knowledge is knowing a tomato is a fruit, wisdom is not putting it in a fruit salad. 
+
+The first three steps are all about the past, while wisdom is about the future. 
+
+
+What is a customer journey map? 
+At its most basic level, it's a technology enhanced version of the classic consumer buying decision process.
+
+The consumer decision buying process
+Need Recognition---> Information Search---> Evaluation of Alternatives---> Purchase Decision---> Post- Purchase Behaviour
+
+People recognize that they have a need they want to meet or problem that they need to solve. They go out and find information about the area so they can see if there are any products that can fulfill the need. They go through a process of comparing various options, weighting them in terms of priority against factors such as price, availability, quality, reliability, and intangibles such as brand. They make a decision to buy something, they use it, and then they decide whether they made the right decision or not depending on how well the product solve the problem. 
+
+A customer journey map
+Let's say you work for a hotel chain and you want to create a customer journey map. In the pre-Internet days, it would look something like this. Problem recognition, you want to go on holiday to Paris and you realize that you need somewhere to stay. Information search, you might ask friends who had been to Paris where they stayed, or read a guide book, or a magazine article about Paris accommodation. Armed with that information, you go to visit a travel agent to talk about the whole holiday, including accommodation and to see what your options are. Evaluation of alternatives, you discuss your options with the travel agent and see how they match up against your budget. You try not to think about how your travel agents recommendations are influenced by commission payments from holiday vendors. Purchase, you decide on your accommodation and you probably pay up front through your travel agent. 
+
+Today, thanks to digital technology, your accommodation experience looks more like this. Dreaming, you see that one of the influencers you follow on Instagram has been to Paris. You think, "Oh, it looks beautiful, I want to go to Paris." Research and planning, as well as reading brochures and books on what to see and do in Paris. You put the word out on Facebook, Instagram, Snapchat, WeChat, whatever your social media platform of choice is, and ask, "Where's a good place to stay in Paris?" You Google places to stay in Paris or accommodation Paris, and surf through the blogs, websites, and sponsored links and post the top the search results. You also see what you can find online about the place that the influencer stayed in. You check out some of the Marriott hotel and destination review sites in comparison sites to find out what accommodation is available. 
+
+
+One of the key things that businesses want to understand is what led the customer to buy their product. There's a lot of debate about the best way to determine which activities contribute to a sale and how they should be weighted.
+attribution models
+they are the last interaction model. The place where the customer buys gets 100 percent of the credit for the sale. For example, if they're buying from your website, the Buy Now button gets all of the credit.
+
+Last non-direct click model. Now here the channel containing the last thing the customer does that takes them to the Buy Now button, gets 100 percent of the credit. For example, the e-mail with the link they clicked on, or the Facebook ad or organic search results they clicked on. Last Google ads click model. If at some stage of the journey that customer has clicked on a page search ad, that ad gets 100 percent of credit for the sale.
+
+First interaction model. The first digital touch point in the journey, it might have been an email click through a social ad or pay or organic search click, that gets 100 percent credit for getting the customer started on the journey. 
+
+The linear model. Every touch point along the journey gets equal credit, even if the initial activity happened weeks or even months earlier. 
+
+Time decay model, the closer an activity or touch point is to the actual sale, the higher the percentage of credit it earns.
+
+Position-based model. The first and last interactions along the journey each get 40 percent of the credit, with the remaining 20 percent shared evenly by all the interactions in the middle.
+
+although these models are relied upon by millions of numbers focused businesses around the world, I believe attribution models have some fundamental flaws. First, they're trying to apply uniform rules to a process which is messy and non-standard. People are all different. One person might be influenced more by an e-mail, another by a page search ad, another by an organic listing, or another by a Facebook ad. Rather than the sequence in which they interact with your business. I don't see how you can find a formula that applies across all customers. 
+Third, by their very nature, attribution models don't take into account any non digital touch points. What if the customer saw a billboard or had a conversation with a friend or saw TV ad somewhere along the journey, how do you apportion credit to those touch points? 
+attribution modeling can help you quantify the influence of various digital touch points but don't rely on it as the sole way to make decisions on your marketing spend.
+
+
+H-E-U-R-I-S-T-I-C-S
+The problem with relying on just one type of information is to do with bias. But two dollar word for this is heuristic, which is spelled H-E-U-R-I-S-T-I-C-S. This word, which comes to us from ancient Greek, roughly translates as shortcuts that the human brain uses to make decisions, there are several types of bias encountered in data collection and analysis. These occur because people are using heuristics rather than objective information to make decisions. 
+
+measurement bias, failure to be objective when collecting your data,
+
+confirmation bias, when you focus on the data that gives you the answer you're looking for and you ignore the rest of it, 
+
+response bias, where research participants tend to tell you what you want to hear, 
+
+sampling bias, where you don't have a realistic spread of your target population in your survey pool, 
+
+internal bias, where you design your research to focus on what your business is doing and you neglect to consider what your competitors are doing. 
+
+Sunk costs trap, a bias it can be conscious or subconscious where you're looking for information that justifies money already spent on developing a product. An example is pushing results toward a decision to extend the product line using existing manufacturing process rather than developing something completely different, that may require a completely new process or even a new factory. 
+
+Saliency bias, comparing results to a past success even if that passed result isn't relevant. 
+
+Procedural bias, which happens in tactics such as vox pop interruption poles, or exit surveys that cause people to rush their answers. 
+
+You can't eliminate bias, but if you're aware of it, you can minimize the impact. In fact, not taking into account the possibility of bias is itself another bias, designed bias. 
+
+How do you limit the impact of biases and overreliance on one type of data? 
+You need to slow down, avoid jumping to conclusions, and ask yourself and your team some questions when designing research. Deciding what data to collect and analyzing data, those questions might include. Is self interest driving any of our decisions? Does our analysis take into account varying and conflicting ideas? The dialogue between different points of view, the choice between different judgments." Have we fallen in love with an idea or recommendation? Are we making wrong comparisons to a past success? Have we fully considered alternative ideas and recommendations? Are there more questions to be asked than those we've asked? Are we looking to make the right decision for the future without the baggage of past activities and overheads. Our forecasts realistic, have we considered what we would do if things go wrong? Are we making risk averse decisions? Are we taking an outsider's view and looking at things more objectively? The more considered you're thinking, the more you triangulate your data, the broader your scope, and the more objective you're analysis, the better the quality of the decisions you'll make. 
+
+
+Digital and the importance of differentiation
+It's hard to believe that the Internet has been part of our lives for less than 30 years, during that time, it's evolved from e-mails and communities using dial up phone lines to smart phones, social media, and the Internet of things. 
+When there's access to infinite products and a myriad of online distractions, it's more important than ever to differentiate. Brands need to say goodbye to interruption marketing and hello to permission marketing, a phrase coined by digital marketing identity Seth Godin in 1999, which acknowledge the changing balance of power. Consumers now need to give permission for a brand to enter into a relationship with them. 
+One increasingly popular way for brands to gain permission is by content marketing, also known as brand storytelling, brand journalism, or brand narratives. After more than a century of taking a backseat to advertising, content marketing has enjoyed a powerful resurgence as a result of the shift in the balance of power from brands to consumers brought about by digital and social media. 
+Content marketing is defined as a strategic marketing approach focused on creating and distributing valuable, relevant, and consistent content to attract and retain a clearly defined audience - and, ultimately to drive profitable customer action. The aims of content marketing activities range from awareness to purchase, while their psychological appeal ranges from the rational to the emotional.
+
+
+Turning knowledge into wisdom: Big Data
+To turn knowledge into wisdom, you need to combine it with all the relevant information you have. Both digital an analog and analyze it in a relevant way that will help you not only serve your customers current needs with your existing products. But to anticipate their future needs in order to grow your customer centered business. One way to do this is to use a term that has been bandied about a lot of light big data. how you can use big data in your business. 
+Volume, with trillions of gigabytes being created daily, can you sift through it and get your hands on the specific data or information you're looking for?
+Value, can you not only get your hands on the info you're looking for, but easily access it when you need it?
+Veracity in the fake news era, can you rely on the accuracy of the information you found?
+Visualization, is the information presented in a way that makes it easy to see what it means and what you should do about it?
+Variety, how balanced is the information across different platforms and languages? Velocity, how quickly is the information coming in? Can you access it in real time?
+Viscosity, is the information sticky? Does it induce a call to action?
+Virality, is the information in a form that is interesting and can be shared easily? If you posted it on Instagram, would people understand it and share it?

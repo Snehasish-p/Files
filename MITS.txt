@@ -1,0 +1,340 @@
+Cloud based IT delivery model- In spite of many advantages of cloud computing, the challenges that the sellers face in selling cloud to large established enterprises such as Tata 
+Steel, Maruti and how the sellers can manage those
+
+Methodology
+Secondary Research- Industry Reports, Research papers, Blogs, Articles
+Primary Research- (Qualitative) 
+In qualitative research we will do In-depth Interviews with cloud service providers.
+The purpose of this interviews will be to understand how they target big enterprises and the challenges that the sellers face in selling cloud.
+
+https://www.forbes.com/sites/forbestechcouncil/2017/06/05/13-biggest-challenges-when-moving-your-business-to-the-cloud/?sh=6297beab9b0e
+
+https://www.intel.co.uk/content/www/uk/en/it-management/cloud-analytic-hub/cloud-computing-challenges-and-solutions.html
+
+https://go.451research.com/The-cloud-transformation-journey.html
+
+https://www.racknap.com/blog/top-challenges-of-cloud-service-providers/
+
+https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/three-actions-ceos-can-take-to-get-value-from-cloud-computing
+
+https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/cloud-adoption-to-accelerate-it-modernization
+
+https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry
+
+https://www.cloudwards.net/cloud-computing-statistics/
+
+Value Proposition
+Automating manufacturing process to increase plant productivity and relibility for efficient delivery
+Increasing plant productivity and reliability for efficient delivery by automating production processes.
+Improve raw material utilisation patterns, customer satisfaction and labour hapiness by technological development.
+Technological advancements can improve raw material utilisation patterns, customer satisfaction, and labour happiness.
+
+Demonstrated By-
+UPL Limited 30% drops in costs after automating manufacturing process.
+By using remote sensing Tata Chemicals has increased plant safety by 20%.
+India Glycols improved their efficiency by 18%.
+Panama Petrochemicals reduced their outstandings by 15%.
+
+Benefits for Clients-
+Reduces overtime and operation costs.
+Increases productivity by taking care of raw material processing and running high-pressure systems.
+Easy to monitor and predictive maintenance.
+Production tracing can be substantially aided by automating the procedure.
+Reduces unplanned shutdowns.
+Eliminating human errors.
+Process simplification, real-time execution, and support for quick decision-making.
+
+Client's Responsibilities-
+Define project requirements as clearly as possible and clarify as many details as possible.
+Client must verify that adequate management arrangements are in place to ensure that the roles, functions and responsibilities of all members of the project team are clear and understood.
+The client must allow sufficient time for the planning, hazard identification, risk assessment, specification of risk control measures, selection of contractors, mobilisation, sequencing and scheduling of work.
+The client shall establish arrangements for confirming the adequate co-operation and co-ordination between all members of the project team. 
+The client must provide information regarding the project, site and other relevant issues to the designers and contractors on all projects. 
+Constantly Review Deliverables.
+
+Define project requirements as clearly as possible and clarify as many details as possible.
+The client must ensure that proper management systems are in place to guarantee that all members of the project team understand their roles, functions, and responsibilities.
+The client must allocate enough time to plan, risk evaluation, risk assessment, contingency planning, deployment, sequencing, and scheduling.
+The client must make measures to ensure that all members of the project team are cooperating and coordinating well.
+The client must submit all project-related and other essential papers, as well as all resources, as specified in the contract.
+It is the duty of client to review deliverables on a regular basis.
+
+
+
+Compare the advantages and disadvantages of Field sale with inside sale?
+
+Inside Sales
+Low Costs-
+Inside salespeople spend less money on things like travel and hotel. Furthermore, they only need a few simple instruments to get the job done (access to a computer, Internet, and a phone).
+More efficient-
+As there is no travelling involved they can spend more time with clients and can generate greater no. of sales opportunity.
+Increase in no. of clients- 
+Through inside sales, Microsoft have the capability to cover large area (i.e. Global Coverage).
+Access to more resources- 
+Inside sales reps have access to a wealth of materials that outer sales reps do not because they spend the most of their day in front of a computer.
+Increased collaboration-
+You can make your inside sales process more collaborative by structuring it. One team member, for example, could make introductory calls to determine customer needs and then pass them on to an account representative after the first conversation. A typical outside sales process involves one person overseeing the entire sales process, and it is a more independent function.
+
+Disadvantages-
+Building good consumer relationships is more difficult- 
+Because inside sales reps don't have as much face-to-face engagement as outside sales people, it's more difficult for them to form strong client bonds rapidly.
+
+
+
+Field Sales
+Customer retention is improved-
+Clients are frequently met in person by outside sales reps. This more personalised approach to customer service often has a greater impact, resulting in better and longer-lasting client relationship. As a result, outside sales may result in higher client retention over a longer period of time.
+Conversion rate is higher- 
+This is probably due to making a pitch in front of the clients and the strength of the relationship built through face-to-face interaction. When it comes to closing high-profile agreements, outside selling can be extremely effective.
+Since the beginning Microsoft had relied on field sales executives and partner model. If suddenly it changes to inside sales, it will take time for executives to indulge with the change and handling of all accounts may also get affected because of this.
+
+
+Disadvantages-
+Increase in costs.
+Lack of corporate involvement- Because of the travelling, sales reps lost opportunities for networking and immersion in a corporate environment because of that they are much less apt to be promoted within the company and this may lead to executives leaving the organization.
+As they are not invloved in Microsoft's day to day operations, sales reps may fail to show Microsoft's culture and values to clients.
+Chances of Layoffs are high.
+
+Research Objectives
+To determine what are challenges faced by CSPs while on boarding mid and large organizations.
+To determine what are factors that organizations looks for while opting for cloud services.
+Typical savings on switching from traditional to cloud.
+Difference in working while working traditionally vs cloud.
+
+
+Research Questions
+What are CSPs' perceptions of customer needs and hurdles to cloud adoption?
+What steps do CSPs take to overcome these requirements and roadblocks?
+What current and future challenges for CSPs can be identified from the CSPs’ perspectives?
+
+Methodology
+In this study, to test the above objectives we used a qualitative research method to conduct an In- depth interviews. This research aims to understand the perspective of cloud service providers on the difficulties that they face while selling cloud.
+
+Participants
+The participants selected for this study are Executives who are working as a cloud service provider, cloud consultants or the personnel who are somewhat associated with providing cloud solutions.
+
+Data Collection
+We have recorded the In-depth interviews with the participants. We have contacted the participants through LinkedIn. Respondents without experience of cloud solutions were excluded from the current study.
+
+Questionnaire Creation
+Through the secondary research we have identified few pain points or objectives. And based on those objectives we have created broad research questions through whcih we have created detailed questionnaire for In-depth interviews.  
+We selected a few pain points and objectives through secondary research. And, based on those objectives, we developed broad research questions from which a specific questionnaire for in-depth interviews was developed.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IT
+Four Varities of IT
+3 Dominant business model
+B2C and B2B
+Challenges in B2B
+Functions in IT industry- Marketing Function, Sales and Presales Function, KAM, Delivery, Operations and Maintenance
+Value, Types of Benefits
+TCO
+Conjoint
+Customer Value Propositions- All Benefits, Favorable point of difference, Resonating Focus
+Value Proposition
+Value Proposition Designing
+Why we fail to design effective value proposition
+Buying Behavior- Transactional, Relationship Focused
+Always a share model
+Lost for good model
+Buying Unit / Decision Making Unit
+Types of Buyer- Economic, User, Technical, Coach
+Stakeholder Management Plan
+Vendor Management Process- Vendor Engagement Steps
+Vendor Evaluation Framework
+Customer Portfolio Management
+Portfolio management in customer relationships
+Customer Portfolio Management Matrix
+Key Account Management
+Reasons for adopting KAM
+Key success factors in KAM
+Risks associated with KAM Strategy
+The KAM relationship life cycle
+Criteria for assigning KAM status
+KAM Activities
+Account Plan Creation
+Revenue Potential of Key Accounts
+Key Account Management Impact
+Integrated relationship Management
+Defining sales and marketing function in B2B context
+Value Based Selling Approach
+Challenges in Value Based Selling
+Other Selling Styles
+Dimensions of Value Based Selling Framework
+Value Based Selling Process
+Opportunity Assessment
+Bid Team Formation
+IT Sales Process
+Solution Components- Technical Solution, Commercial Solution
+ESTIMATION
+Estimating Techniques- Top Down, Bottom Up
+Risk
+Risk Response Strategies
+Commercial Solution
+Pricing
+Types of Contract
+
+
+
+
+
+
+
+
+
+
+4 Types of IT- Function, Collaborative, Enterprise, Insight
+Function- IT that helps in executing discreet tasks. 		Example- MS- Word
+Collaborative- IT that facilitates Interaction. 		Example- Emails, Skype, blogs, Instant mssgs
+Enterprise- IT that manages business processes. 		Example- CRM, SAP, SCM, ERP
+Insight- IT that provides insight related to customer and business. 		Example- MIS, Analytics
+
+
+
+
+Reasons for adopting KAM
+To increase market share (38% of respondents mentioned)
+A change in business strategy (34%)
+Allow increased customization of the product/service (26%)
+Improve relationships with customers (26%)
+Marketplace pressures (21%)
+To become more attractive to large clients (20%)
+
+
+
+
+Criteria for assigning KAM status
+1. Volume of potential business (92% of respondents mentioned)
+2. Volume of past sales (78%)
+3. Competitors’ actions (61%)
+4. Size of customers (55%)
+5. Industry of customers (48%)
+6. Management discretion (29%)
+
+
+
+
+Vendor Management Process
+1. Problem recognition and sourcing strategy formalization
+2. Bid process management (RFI/ RFP)
+3. Supplier evaluation (Capabalities/ Resources/ Feedback/ References)
+4. Contract negotiation (Pricing/ Timeline)
+5. Contract closure and performance analysis
+
+
+Types of Buyers in a Complex B2B Sale
+1. The Economic Buyer
+They want to: Evaluate ROI (Return on Investment).
+They look at: Case studies, client examples, and financial models that showcase the ROI of a solution.
+This buyer holds the purse strings, plain and simple and is therefore the most important of the influencers. Often they are the most senior person , though not always. They often evaluate the broader business impact of your solution. Will it increase revenue or reduce cost, drive up their margins or allow them to enter new markets and so on. They'll also evaluate the business risk associated with choosing your solution.  For example, if your company goes out of business, loses key team members, or gets acquired, what effects will that have on their project. 
+Ask about strategy and then show how your solution will help them achieve their long-term objectives. There is always only one Economic Buying Influence per sale.
+
+2. The User Buyer
+They want to: Evaluate user experience and operational impact.
+They look at: Hands-on aspects of your solution, like free trials, demonstrations, user documentation and so on.
+They will be linked personally to your solution and judge it based on the impact it will have on their specific job performance. This person needs to know how your solution will be used on a daily basis, and who it will affect. They tend to consult with peers in user groups or community sites to see what others who have implemented your solution are saying about it. Their investigations can be extensive and granular and will often focus on change management. The economic buyer will rarely proceed if they get a red light from The User Buyer.
+You should ask pain-based questions to User Buyers.
+
+3. The Technical Buyer
+They want to: Evaluate feasibility.
+They look at: Contractual terms and conditions, trials, demonstrations and compliance.
+Commonly, The Technical Buyer will be the CTO, CFO, or IT Manager.  When evaluating your solution, they'll ask, “Does this mean I’ll have more work to do?” “Could we develop this ourselves?” or “There are other better options out there, although I don’t know them.”
+They can’t say “yes,” but they can say “no”. There may be more than one Technical Buying Influence per sale, for example IT and Finance must both sign off on the deal.
+
+4. The Coach
+They want to: See your solution implemented.
+They look at: Marketing and sales material that can be used for internal promotion of your offer.
+The Coach is your champion within the organisation – An individual who guides you in the sale by giving you information that you need – a very influential role who can significantly assist in getting you the order and repeat business.
+
+
+
+Risk
+A potential event or future situation that may adversely affect the project or the presales effort.
+A risk is something that can negatively affect the project. Every risk has some probability associated with it. If the risk has the probability 1, then it is not a risk. It is an issue, that need to be dealt immediately. A risk must have conditions around it that can be managed.
+
+Examples- Distributed team as the delivery and client team are distributed over multiple location, this would create communication overhead.
+Delay in getting remote access,, instability or less Bandwidth would impact timeline.
+Resourcing as the project need specialized skills and experience, resources may not be available on time. Besides, it would be difficult to motivate resources for frequent travel.
+As the new application has multiple integration with legacy application, delay in getting documentation and support from the legacy team would increase time and cost.
+
+
+Risk Response Strategies
+Accept the risk- This is done when the probability of the risk happening is very low.
+
+Set Aside risk reserve- Risk reserves are accounted for as money set aside to respond to some future event.
+
+Transfer the risk- Transferring risk means giving the responsibility for addressing all or part of a risk to someone else: the client or sponsor, a supplier, or another organization. Transferring a risk changes who is responsible, but it does not remove the risk from the project.
+
+Contain the risk- where proactive steps are taken to lessen the risk exposure by lowering risk probability, risk impact, or both.
+
+
+
+
+Different Selling Types- 
+Value based- When an offering provides higher monetary benefit to customer, the customer should have a strong incentive to buy the high value offering, even at a price premium.
+
+Adaptive selling- The managing or altering sales behaviour during customer interaction based on the perceieved interaction about how customers interact or according to their demand. Adaptive selling requires rapid customization of an effective sales approach to different customers.
+Example- A large hospital may have a different set of requirements for medical devices as compared to a smaller one. In this case, salespersons from the medical device manufacturer will tailor their rates based on the customer. 
+
+Customer oriented selling- Degree to which salespeople helps customer in buying that will satisfy their needs. This sales approach is the key to increasing customer satisfaction, loyalty and business. Instead of forcing your products and services on prospects, your reps should be thinking about identifying customer needs and working to solve those problems. 
+Example- Hair Salon
+
+Consultative selling- It is the process of professionally providing information to help the customers take informative decision to achieve their business objectives. It prioritizes relationships and open dialogue to identify and provide solutions to a customer's needs. 
+Example- Buying a car. In this scenario, the car salesperson asks what kind of car you're looking for, seeks to understand how you'll use the car, finds out what's important to you, and makes suggestions based on what they've learned.
+
+Agility selling- Similar to adaptive selling. That is salespeople need to adapt their sales approach to meet their customers' needs
+
+Partnering oriented selling- Work with their customers and their companies to develop a solution that enhances the profit of both firms. 
+
+Relationship selling- Focuses on building mutual trust with the buyer. Personolaziation and showing empathy to customers.
+
+
+
+
+
+
+Types of Contract-
+Fixed Price- 
+Fixed price contracts provide the buyer with defined cost without overruns, although the initial cost may be higher to account for risks and unknown factors by sellers.
+The seller does bear the risk of loss if costs overrun or if the project entails more requirements than originally anticipated.
+Fixed price contracts can be further enhanced by including penalty or incentive for vendor performance.
+This type of contracts can be expensive as the sellers would keep higher provisions for contingency.
+
+Benefits Sharing-
+Client pays agreed charges based on client achieving agreed business metrics (e g revenue increase, improvement in customer satisfaction score, reduction in customer churn)
+
+Time and Material-
+This type of contract is primarily includes resource cost, resource’s time spent is priced on a per hour basis.
+There is no additional fee to be paid, the cost of the resource includes the profit of the vendor.
+One advantage is that vendor relations are generally better under this type of contract
+This type of contract is especially useful for projects where the scope is difficult to define and protects the seller from cost overruns, although the buyer will be the one bearing the risk of loss.
+
+Consumption Based-
+Client pays an agreed rate for a specified transaction or event i.e each Resource Unit) actually used by the client
+Payment can be linked to volume, time, resource configuration or a mix of all three
+There can be a minimum baseline commitment
+
+Cost Reimbursable-
+Cost Plus Fixed Fee- The Fee is fixed, irrespective of cost. Cost can be overtime, extra resources etc.
+Cost Plus Incentive Fee- This type of contract pays all costs and an agreed upon fee, plus a bonus for beating the target. For every month the project is completed sooner than agreed upon, seller receives an additional $10,000.
+Cost plus percentage of costs- all the costs incurred by the team + % of them.
+
+
+
+
+B2B VC B2C
+
+Attribute			B2C							B2B		
+
+No. of Buyers 		Many (Lakhs)				Few(50-100)
+No. of Sellers 		In 1000s					Few large brands
+Location			Buyers are distributed		Present only in large cities
+Products			Mass Production 			Customized
+Influencers			Family/ Friends				Clients References/ Consultants
+Presales Process	Advertisement				Detailed Evaluate/ Multiple Decision makers
+Size of the deal 	Small						Large
+Price				Fixed						Negotiated/ Specific to each customer
+Advertisement		Conventional				Pull Marketing/ Word of Mouth
+Stakeholders		Less						Multiple
+Process   			Short Process				Long Process and involvement of many stakeholders

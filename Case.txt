@@ -1,0 +1,136 @@
+The four key case scenarios are:
+1. Profit and loss
+2. Entering a new market
+3. Pricing
+4. Growth and increasing sales
+
+1. Profit and loss (Page 80)
+						E(P=R-C)M
+The E represents the economy and/or environment, and M represents the market or the industry. You always want to look at external factors first, so you have an idea whether this is a company problem or an industry-wide problem.
+
+Questions to think about:
+Revenues:
+1. What are the major revenue streams, and what percentage of the
+total revenue does each stream represent?
+2. Does anything seem unusual in the balance of percentages?
+3. Have the percentages changed lately? If so, why?
+
+Costs:
+1. Any major shifts in costs?
+2. Do any costs seem out of line?
+3. If we benchmarked our costs against our competitors’ costs, what would we find?
+
+Page 84
+
+
+
+
+2. Entering a New Market
+A good clarifying question with an entering a new market question is “Why does the company want to enter this market?”
+
+Step 1: Start off with questions about the company. (Remember the core list.)
+What are the company’s profits and revenues for the last three years?
+What is the company’s product mix?
+If this is about a new product,
+	Will it cannibalize an existing product?
+	Is the customer segmentation(s) the same?
+	Can we use the same distribution channels?
+	Can we use the same sales force?
+	How and where will this new product be produced?
+	Will we have to hire new workers or retrain current workers?
+How strong is the brand?
+What constitutes success?
+
+Step 2: Determine the state of the current and future market. (Remember the core list.)
+What is the size of the current market?
+What is the growth rate? (Ask for trends.)
+Where is the industry in its life cycle? (Stage of development: Emerging? Mature? Declining?)
+Who are the customers and how are they segmented?
+What role does technology play in the industry and how quickly will it change?
+How will the competition respond?
+
+Step 3: Investigate the market to determine whether entry makes good business sense.
+Who are the competitors, and what size market share do they have?
+How do their products differ from ours?
+How will we price our products or services?
+Are substitutions available?
+Are there any barriers to entry? Examples might include lack of brand or street cred, capital requirements, access to raw materials, access to distribution channels, lack of human capital, and government policy. Also, industries dominated by a small number of big players can be a barrier.
+Are there barriers to an exit? How would we exit if this market sours?
+What are the risks? (For example, changing market regulations or technology.)
+
+Step 4: If we decide to enter this market, we need to figure out the best way to become a player. There are four major ways to enter a market: Start from scratch and grow organically.
+Acquire an existing player from within the industry. (Grow inorganically).
+Form a joint venture / strategic alliance with another player with a similar interest. What can each side bring to the venture?
+Outsourcing. Have someone else manufacture the product, with the client still handling marketing and distribution.
+
+Page 87
+
+
+
+
+3. Pricing Strategies
+Step 1: Investigate the company. How big is it? What products does it have, and is it a market leader in this field? More important, what is the pricing
+
+objective: profits, market share, or brand positioning? Is it in charge of its own pricing strategies, or is it reacting to suppliers, the market, and competitors?
+
+Step 2: Investigate the product. How does it compare with that of the competition? Are there substitutions or alternatives? Where is the product in its growth cycle? Is there a supply-and-demand issue at work?
+
+Step 3: Determine a pricing strategy. There are three main pricing strategies to think about: competitive analysis, cost-based pricing, and price–based costing.
+
+Competitive Analysis: Are there similar products out there? How does our product compare with the competition? Do we know the competitor’s costs? How are its products priced? Are there substitutions available? Is there a supply-and-demand issue? What will the competitive response be?
+
+Cost-based Pricing: Take all our costs, add them up, and add a profit to it. This way you’ll know your break-even point. Usually not a very good way to price anything, though, because if you misjudge the market you’ll have to cut prices, which will squeeze margins – but the company needs to know what its costs are.
+
+Price-based Costing: What are people willing to pay for this product? If they’re not willing to pay more than what it costs you to make the product, then it might not be worth making. On the other hand, consumers may be willing to pay much more than you could get by just adding a profit margin. Profit margins vary greatly by industry: grocery stores have a very thin profit margin, while drug companies traditionally have a huge margin. Also consider what your product will be worth to the buyer. Compare it with other products or services in their lives. What did they pay in those cases?
+
+In short, when solving a pricing problem, you need to look at all these strategies and see where, or if, they intersect.
+
+
+
+
+4. Growth and Increasing Sales
+Step 1. Learn about the company and its size, resources, and products. (You know the drill.)
+
+Step 2. Investigate the industry: Is it growing and how is the client growing compared with the industry? Are the client’s prices in line with its competitors?
+
+Increase volume / revenues:
+Expand the number of distribution channels.
+Increase product line through diversification of products or services (particularly with products that won’t cannibalize sales from existing products).
+Analyze the segments of the business with the highest future potential and margins.
+Invest in a marketing campaign.
+Acquire a competitor (particularly if the question is about increasing market share).
+Adjust prices (Take into account the price sensitivity of the customer. Lower prices to increase volume and raise them to decrease demand or increase profits per unit).
+Create a seasonal balance. (Increase sales in every quarter – if you own a nursery, sell flowers in the spring, herbs in the summer, pumpkins in the fall, and Christmas trees and garlands in the winter).
+
+Another way for a company to grow is to find niches in developing industries with high barriers to entry. There will be less competition and more notice if someone is trying to enter.
+
+
+
+
+21 Ways to Cut Costs
+( Labor )
+1. Cross-train workers.
+2. Cut overtime.
+3. Reduce employer 401(k) or 403(b) match.
+4. Raise employee contribution to healthcare premiums.
+5. Institute four 10-hour days instead of five 8-hour days.
+6. Convert workers into owners (if they have a stake in the company they will work longer and harder and constantly think of ways to cut costs in ways they may not have done before).
+7. Contemplate layoffs.
+8. Institute across-the-board pay decreases.
+
+( Production )
+1. Invest in technology.
+2. Consolidate production space to gain scale and create accountability.
+3. Create flexible production lines.
+4. Reduce inventories (JIT).
+5. Outsource.
+6. Renegotiate with suppliers.
+7. Consolidate suppliers.
+8. Import parts.
+
+( Finance )
+1. Have customers pay sooner.
+2. Refinance your debt.
+3. Sell nonessential assets.
+4. Hedge currency rates.
+5. Redesign health insurance.

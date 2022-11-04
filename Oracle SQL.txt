@@ -1,0 +1,25 @@
+Keyboard Shortcuts
+
+Ctrl+ Enter === Execute
+Ctrl + / === Comment
+
+
+
+
+
+SELECT obj#, col# ColumnName, name, type# FROM col$; ---------> col# column name will change to ColumnName
+SELECT obj#, col# as ColumnName, name, type# FROM col$; ---------> col# column name will change to ColumnName
+
+--   ==== Double Hyphen means Single line Comment
+/*      */  ===== Multi line Comment
+
+
+Group By Statement
+select NAME, Count(NAME) from COL$ group by NAME; (In this if we are selecting something in select than that should also be there in group by clause, else it will throw error)
+
+Having Clause
+select NAME, Count(NAME) from COL$ group by NAME having COUNT(*) > 5;
+
+Order By
+select NAME, Count(NAME) from COL$ group by NAME having COUNT(*) > 5 order by Count(*), Name; (ASC is optional ...otherwise DESC)
+

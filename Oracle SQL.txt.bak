@@ -1,0 +1,15 @@
+Keyboard Shortcuts
+
+Ctrl+ Enter === Execute
+Ctrl + / === Comment
+
+
+
+
+
+SELECT obj#, col# ColumnName, name, type# FROM col$; ---------> col# column name will change to ColumnName
+SELECT obj#, col# as ColumnName, name, type# FROM col$; ---------> col# column name will change to ColumnName
+
+--   ==== Double Hyphen means Single line Comment
+/*      */  ===== Multi line Comment
+
